@@ -1,4 +1,4 @@
-# Bankist Landing Page
+# Bankist
 
 A modern, clean, and interactive landing page for a minimalist banking service. Built with HTML, CSS, and vanilla JavaScript, this project showcases best practices in UI/UX design and frontend development.
 
