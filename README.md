@@ -30,7 +30,6 @@ A modern, clean, and interactive landing page for a minimalist banking service. 
     cd bankist-landing-page
     
 3.  Open index.html in your favorite browser:
-     ```
      open index.html
 
 
