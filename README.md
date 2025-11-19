@@ -15,8 +15,6 @@ A modern, minimalist landing page for a fictional digital banking service. Built
 
 Bankist showcases modern frontend development best practices with a focus on **user experience**, **performance**, and **clean code**. Every feature is built from scratch using vanilla JavaScript—no frameworks or libraries.
 
-**Live Demo**: [View Project](https://bankist-project-lexis.netlify.app/)
-
 ---
 
 ## ✨ Features
